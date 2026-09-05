@@ -27,11 +27,12 @@
 
 | Project | Tech | Description |
 | :--- | :--- | :--- |
+| **[ConceptCatch](https://github.com/abdallahade1/ConceptCatch)** | Azure OpenAI, LangChain, FastAPI, React | Adaptive AI learning platform for personalized student feedback & customized quizzes generation. |
+| **[Reviews Summarizer](https://github.com/abdulrahman-riyad/real-time-reviews-analysis)** | BERT, GeminiAPI, FastAPI | Aspect-Based Sentiment Analysis to extract the pros and cons of products. |
 | **[DDI Prediction](https://github.com/abdallahade1/DDI-KG-SS-GNN)** | PyTorch, RDKit, GNN, Streamlit | Knowledge-graph-enhanced, substructure-aware Siamese GNN classifying 86 drug interaction types. |
 | **[HHTS Implementation](https://github.com/abanoub-samy-farhan/hhts_implementation)** | OpenCV, Scikit-image, Streamlit | Python re-implementation of CVPR 2024 algorithm, adapted for high-detail superpixel segmentation remote sensing imagery. |
 | **[Lymphoma Diagnosis with XAI](https://github.com/ShahdAmmar/lymphoma-diaganosis)** | DenseNet, ResNet, Grad-CAM++ | Image classifier for malignant lymphoma with Explainable AI to verify clinical relevance in diagnosis. |
-| **[ConceptCatch](https://github.com/abdallahade1/ConceptCatch)** | Azure OpenAI, LangChain, FastAPI, React | Adaptive AI learning platform for personalized student feedback & customized quizzes generation. |
-| **[Reviews Summarizer](https://github.com/abdulrahman-riyad/real-time-reviews-analysis)** | BERT, GeminiAPI, FastAPI | Aspect-Based Sentiment Analysis to extract and pros and cons of products. |
+
 
 
 ---
